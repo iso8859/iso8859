@@ -15,7 +15,7 @@ Créateur de la formation codage pour les grands débutants https://www.cours-pr
 - MongoDB, SQLite et SQL
 - Cryptographie et sécurité
 - Je connais les principaux hébergeurs français et les cloudeurs
-- Je fais du fullstack mais pas expert pour faire de belles pages web
+- Je fais du fullstack mais pas expert HTML et CSS.
 - Veille permanente
 - Réparateur de PC dans le cadre de Repair Café
 
