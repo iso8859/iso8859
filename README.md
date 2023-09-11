@@ -14,7 +14,7 @@ Créateur de la formation codage pour les grands débutants https://www.cours-pr
 - Expert dans la manipulation d'images, de PDF et OCR
 - MongoDB, SQLite, SQL, Redis - Messaging (RabittMQ, SignalR...)
 - Cryptographie, sécurité, IA (prediction, LLM...), Web3
-- Je connais les principaux hébergeurs français, les cloudeurs, legislation dans ce domaine, formation RGPD.
+- Je connais les principaux hébergeurs français, les cloudeurs et la legislation dans ce domaine, formation RGPD.
 - Je fais du fullstack mais pas expert HTML et CSS.
 - Veille permanente
 - Bonne vision des capacités techniques des utilisateurs.
