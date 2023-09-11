@@ -12,12 +12,13 @@ Créateur de la formation codage pour les grands débutants https://www.cours-pr
 - Expert C++ et .NET/C#
 - Expert des systèmes distribués haute performance
 - Expert dans la manipulation d'images, de PDF et OCR
-- MongoDB, SQLite et SQL
-- Cryptographie et sécurité
-- Je connais les principaux hébergeurs français et les cloudeurs
+- MongoDB, SQLite, SQL, Redis - Messaging (RabittMQ, SignalR...)
+- Cryptographie, sécurité, IA (prediction, LLM...), Web3
+- Je connais les principaux hébergeurs français, les cloudeurs, legislation dans ce domaine, formation RGPD.
 - Je fais du fullstack mais pas expert HTML et CSS.
 - Veille permanente
-- Réparateur de PC dans le cadre de Repair Café
+- Bonne vision des capacités techniques des utilisateurs.
+- Réparateur de PC dans le cadre de Repair Café, président d'un tiers-lieu associatif, un enfant lycéen
 
 Contact (en base64) : cmVtaUB4dHdhcmUuY29t
   
