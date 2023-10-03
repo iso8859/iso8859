@@ -16,7 +16,9 @@ Créateur de la formation codage pour les grands débutants https://www.cours-pr
 - Cryptographie, sécurité, IA (prediction, LLM...), Web3
 - Je connais les principaux hébergeurs français, les cloudeurs et la legislation dans ce domaine, formation RGPD.
 - Je fais du fullstack mais pas expert HTML et CSS.
-- Veille permanente
+- Domaines, DNS, mails, web, FTP, routage, IP, routeur, fibre ... je connais parfaitement mais je ne suis pas admin system.
+- Bonne vision sur le marketing internet, pub internet, SEO ... je connais aussi mais je ne fais pas du marketing.
+- Veille permanente, écoute de podcasts techniques et sur l’entrepreneuriat.
 - Bonne vision des capacités techniques des utilisateurs.
 - Réparateur de PC dans le cadre de Repair Café, président d'un tiers-lieu associatif, un enfant lycéen
 
