@@ -1,4 +1,4 @@
-Entrepreneur depuis 2001, développeur depuis plus de 40 ans, je suis né en 1969 et suis tombé dans le code à l’âge de 12 ans. Études dans l’électronique et info industrielle.
+Entrepreneur depuis 2001. Études dans l’électronique et info industrielle.
 
 Langues : le code, puis le français et l’anglais.
 
