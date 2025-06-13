@@ -8,8 +8,7 @@ Développeur principal serveur d’image haute performance pour une entreprise d
 Développeur solution GED, déployé en entreprise ou dans le cloud.
 
 "Ne mets pas tout ton cloud dans le même panier".
-Je peux vous créer une infrastructure avec la meilleure résilience par design. Jamais down, scale à l'infinie, sauvegarde en temps réel.
-
+Je peux vous créer une infrastructure avec la meilleure résilience par design. Jamais down, scale à l'infinie, sauvegarde en temps réel, coûts maîtrisés.
 IA Augmented developer.
 
 - Expert C++ et .NET/C#
