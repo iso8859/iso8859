@@ -10,8 +10,8 @@ Développeur solution GED, déployé en entreprise ou dans le cloud.
 ```
 "Ne mets pas tout ton cloud dans le même panier".
 Je peux vous créer une infrastructure avec la meilleure résilience par design.
- - Jamais down.
- - Scale à l'infinie.
+- Jamais down.
+- Scale à l'infinie.
 - Sauvegarde en temps réel
 - Coûts maîtrisés.
 - Simple is better, pas une usine à gaz incompréhensible.
