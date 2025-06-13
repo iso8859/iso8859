@@ -7,6 +7,9 @@ Associé dans une entreprise dans l’IA où j’ai mis en code les algorithmes 
 Développeur principal serveur d’image haute performance pour une entreprise dans le médical.
 Développeur solution GED, déployé en entreprise ou dans le cloud.
 
+"Ne mets pas tout ton cloud dans le même panier".
+Je peux vous créer une infrastructure avec la meilleure résilience par design. Jamais down, scale à l'infinie, sauvegarde en temps réel.
+
 - Expert C++ et .NET/C#
 - J'ai aussi travaillé avec Python, Rust, Javascript, Typescript, Java
 - Expert des systèmes distribués haute performance
