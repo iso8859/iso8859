@@ -15,6 +15,7 @@ Développeur solution GED, déployé en entreprise ou dans le cloud.
 - Cryptographie, sécurité, IA (prédiction, LLM...), Web3
 - Je connais les principaux hébergeurs français, les cloudeurs et la législation dans ce domaine, formation RGPD.
 - Je fais du fullstack mais pas expert HTML et CSS.
+- Un peu DevOps avec Git et CI/CD
 - Domaines, DNS, mails, web, routage, IP, routeur, fibre ... je connais parfaitement.
 - Bonne vision sur le marketing internet, pub internet, SEO ... je connais aussi.
 - Veille permanente, écoute de podcasts techniques et sur l’entrepreneuriat.
