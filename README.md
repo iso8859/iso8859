@@ -10,6 +10,8 @@ Développeur solution GED, déployé en entreprise ou dans le cloud.
 "Ne mets pas tout ton cloud dans le même panier".
 Je peux vous créer une infrastructure avec la meilleure résilience par design. Jamais down, scale à l'infinie, sauvegarde en temps réel.
 
+IA Augmented developer.
+
 - Expert C++ et .NET/C#
 - J'ai aussi travaillé avec Python, Rust, Javascript, Typescript, Java
 - Expert des systèmes distribués haute performance
