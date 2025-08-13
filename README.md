@@ -16,7 +16,7 @@ Je peux vous créer une infrastructure avec la meilleure résilience par design.
 - Coûts maîtrisés.
 - Simple is better, pas une usine à gaz incompréhensible.
 ```
-- IA Augmented developer.
+- IA Augmented developer - vide coding
 - Expert C++ et .NET/C#
 - J'ai aussi travaillé avec Python, Rust, Javascript, Typescript, Java
 - Expert des systèmes distribués haute performance
@@ -24,7 +24,7 @@ Je peux vous créer une infrastructure avec la meilleure résilience par design.
 - MongoDB, SQLite, SQL, Redis - Messaging (RabittMQ, SignalR...)
 - Cryptographie, sécurité, IA (prédiction, LLM...), Web3
 - Je connais les principaux hébergeurs français, les cloudeurs et la législation dans ce domaine, formation RGPD.
-- Je fais du fullstack mais pas expert HTML et CSS.
+- Fullstack mais pas expert HTML et CSS.
 - Un peu DevOps avec Git et CI/CD
 - Domaines, DNS, mails, web, routage, IP, routeur, fibre ... je connais parfaitement.
 - Bonne vision sur le marketing internet, pub internet, SEO ... je connais aussi.
