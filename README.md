@@ -34,11 +34,7 @@ Je peux vous créer une infrastructure avec la meilleure résilience par design.
 - Bonne vision sur les capacités techniques des utilisateurs.
 - Réparateur de PC dans le cadre de Repair Café, président d'un tiers-lieu associatif, un enfant lycéen
 
-Contact : remi@xtware.com
-
-[LinkedIn : https://www.linkedin.com/in/remi-thomas-fr/](https://www.linkedin.com/in/remi-thomas-fr/)
-
-[CV complet](https://xtware.com)
+Contact : remi.thomas@gmail.com
   
 <!--
 **iso8859/iso8859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
