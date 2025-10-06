@@ -1,11 +1,13 @@
-Entrepreneur depuis 2001. Études dans l’électronique, info industrielle, vision par ordinateur.
+En recherche d'une nouvelle mission (oct 2025). 
+
+Études dans l’électronique, info industrielle, vision par ordinateur.
 
 Langues : le code, puis le français et l’anglais.
 
-Actuellement :
-Associé dans une entreprise dans l’IA où j’ai mis en code les algorithmes du mathématicien.
-Développeur principal serveur d’image haute performance pour une entreprise dans le médical.
-Développeur solution GED, déployé en entreprise ou dans le cloud.
+J'ai été développeur expert :
+- dans une entreprise dans l’IA où j’ai mis en code les algorithmes du mathématicien.
+- pour une entreprise dans le médical, j'ai crée le serveur d’image haute performance.
+- pour un éditeur de GED, déployé en entreprise ou dans le cloud.
 
 ```
 "Ne mets pas tout ton cloud dans le même panier".
