@@ -1,4 +1,4 @@
-En recherche d'une nouvelle mission (oct 2025). 
+En recherche d'une nouvelle mission (juin 2026).
 
 Études dans l’électronique, info industrielle, vision par ordinateur.
 
